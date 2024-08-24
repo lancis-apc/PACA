@@ -6,7 +6,7 @@
 Ordenamiento Ecológico Marino del Pacífico Centro Sur documentation
 ===================================================================
 
-Add your content using ``reStructuredText`` syntax. See the
+Add Your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
