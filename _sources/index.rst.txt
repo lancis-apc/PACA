@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ordenamiento Ecológico Marino del Pacífico Centro Sur documentation
+Ordenamiento Ecológico Marino del Pacífico Centro Sur
 ===================================================================
 
 
