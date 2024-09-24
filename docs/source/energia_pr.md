@@ -16,7 +16,7 @@ Fuentes de energía a escala.
 
 ### 1.1 Modelo de decisión
 
-![](/recursos/energia/energia_industrial_v3.png)
+![](/recursos/energia/.png)
 
 ### 1.2 
 
@@ -33,7 +33,7 @@ Atributo | Definición
 -- | --
 Plantas desalinizadoras  | Distancia a las plantas desalinizadoras
 
-<!--##### 1.2.1.1 Carreteras
+<!-- ##### 1.2.1.1 Carreteras
 
 Distancia a carreteras.
 
@@ -73,9 +73,9 @@ Subcriterio| Definición
 Descarga | Volumen de agua dulce por unidad de tiempo que llega al mar
 Precipitación |  Precipitación anual promedio (mm) del período de 1910 a 2009
 
-**Insumos**
+<!-- **Insumos**
 
-<!--Campo | Uso del suelo y vegetación
+ Campo | Uso del suelo y vegetación
 -- | --
 Fuente | [1] Conjunto de datos vectoriales de la carta de Uso del suelo y vegetación. Serie VI. Conjunto Nacional INEGI y [2] Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares, Región Península de Yucatán CONABIO
 Año | [1] 2017; [2] 2021
