@@ -5,7 +5,7 @@ PACA\diagno\aptitud\web\PACA\docs\source -->
 
 ## Meta
 
-Garantizar el aprovechamiento sostenible de los recursos energéticos del estado de Yucatán, para asegurar que la población y los sectores productivos tengan acceso a energía asequible, sostenible, confiable y de calidad, en un marco de justicia ambiental que considere criterios de uso sostenible del territorio, certidumbre jurídica y contribuya a una mayor democracia en la gestión de los recursos energéticos públicos y comunes.
+
 
 [Lista de participantes]()
 
@@ -33,7 +33,7 @@ Atributo | Definición
 -- | --
 Plantas desalinizadoras  | Distancia a las plantas desalinizadoras
 
-##### 1.2.1.1 Carreteras
+<!--##### 1.2.1.1 Carreteras
 
 Distancia a carreteras.
 
@@ -52,7 +52,7 @@ Unidades | Kilómetros
 
 **Función de valor de carreteras**
 
-![]()
+![]() -->
 
 
 #### 1.2.2 Gradiente natural
@@ -75,7 +75,7 @@ Precipitación |  Precipitación anual promedio (mm) del período de 1910 a 200
 
 **Insumos**
 
-Campo | Uso del suelo y vegetación
+<!--Campo | Uso del suelo y vegetación
 -- | --
 Fuente | [1] Conjunto de datos vectoriales de la carta de Uso del suelo y vegetación. Serie VI. Conjunto Nacional INEGI y [2] Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares, Región Península de Yucatán CONABIO
 Año | [1] 2017; [2] 2021
