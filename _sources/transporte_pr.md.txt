@@ -12,7 +12,7 @@ Desarrollo del comercio nacional e internacional mediante el transporte de merca
 Incrementar la competitividad, a través de la mejora de la movilidad, la eficiencia energética, el desarrollo de infraestructura sostenible y el manejo de residuos, minimizar la contaminación, avanzar en la descarbonización de los puertos e implementar estrategias de mitigación y adaptación.
 
 
-[Lista de participantes](https://www.dropbox.com/scl/fi/5txz7dcl2k3ja3pyrcx2r/lista_asistencia.docx?rlkey=5tyf4tc9r1mvwyaz3gosg2stf&st=3xz481r9&dl=0)
+[Lista de participantes](https://www.dropbox.com/scl/fi/4m9obdv8inc6h8wy2br7c/lista_asistencia.pdf?rlkey=ejfcgnt9s3k1v1h7rcms87yel&st=u68rcer1&dl=0)
 
 <!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
