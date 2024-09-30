@@ -1,15 +1,20 @@
 # Puertos y transporte marítimo
 
 <!-- Ruta de la documentación:
-PACA\diagno\aptitud\web\PACA\docs\source 
+PACA\diagno\aptitud\web\PACA\docs\source -->
+
+[Presentación](https://www.dropbox.com/scl/fi/wsqpqchrqn3ahn2663hdz/pp_talleres_oempcs_trans_mar.pdf?rlkey=duzogbnqcd0j0fc74vww0ysmg&st=pp70rbbn&dl=0)
 
 ## Meta
 
-Garantizar el aprovechamiento sostenible de los recursos energéticos del estado de Yucatán, para asegurar que la población y los sectores productivos tengan acceso a energía asequible, sostenible, confiable y de calidad, en un marco de justicia ambiental que considere criterios de uso sostenible del territorio, certidumbre jurídica y contribuya a una mayor democracia en la gestión de los recursos energéticos públicos y comunes.
+Desarrollo del comercio nacional e internacional mediante el transporte de mercancías en tráfico de altura (internacional), de cabotaje (entre puertos de México) y de corta distancia (regional) y brindando servicios de los sectores industriales para detonar la economía del país, así como el transporte de pasajeros, conforme a la vocación de los puertos del Sistema Portuario Nacional y considerando los planes de expansión de puertos y rutas de transporte.
 
-[Lista de participantes]()
+Incrementar la competitividad, a través de la mejora de la movilidad, la eficiencia energética, el desarrollo de infraestructura sostenible y el manejo de residuos, minimizar la contaminación, avanzar en la descarbonización de los puertos e implementar estrategias de mitigación y adaptación.
 
-**Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
+
+[Lista de participantes](https://www.dropbox.com/scl/fi/5txz7dcl2k3ja3pyrcx2r/lista_asistencia.docx?rlkey=5tyf4tc9r1mvwyaz3gosg2stf&st=3xz481r9&dl=0)
+
+<!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
 ## 1. Energía
 
