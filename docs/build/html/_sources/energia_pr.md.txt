@@ -5,9 +5,9 @@ PACA\diagno\aptitud\web\PACA\docs\source -->
 
 ## Meta
 
+Aprovechar la energía liberada en el proceso espontáneo de mezclado entre dos soluciones de diferente concentración de sal que se pueden encontrar en desembocaduras de ríos, estuarios y lagunas o mediante el uso de agua con alta salinidad obtenida como un subproducto de un proceso industrial, principalmente mediante procesos de intercambio iónico o procesos osmóticos.
 
-
-[Lista de participantes]()
+[Lista de participantes](https://www.dropbox.com/scl/fi/dt3zgq1tgm93t0agdd8rs/lista_asistencia.pdf?rlkey=eukuan69va4gzx66fed8rrtxs&st=0gpmghfg&dl=0)
 
 
 ## 1. Energía por gradiente salino
@@ -20,7 +20,7 @@ Fuentes de energía a escala.
 
 ### 1.2 
 
-Atributos | Definición
+Criterios | Definición
 -- | --
 Gradiente industrial  | Disponibilidad de agua con alta salinidad a partir de un subproducto del proceso industrial
 Gradiente natural | Disponibilidad de agua con alta salinidad a partir de procesos naturales
