@@ -16,7 +16,7 @@ La perspectiva socio-ecológica debe integrar (1) el fortalecimiento de medios y
 
 **Minimizar las amenazas a la biodiversidad** por diversos factores, que incluyen: (1) la mortalidad incidental de megafauna, (2) la contaminación, (3) la introducción de especies invasoras, (4) el desarrollo actividades no sostenibles (tránsito marítimo, pesca, minería, turismo, etc.) y los efectos del cambio climático.
 
-[Lista de participantes]()
+[Lista de participantes](https://www.dropbox.com/scl/fi/rvp79f521tkus2wqgnm4n/lista_asistencia.pdf?rlkey=908278fuz4xhvnbbmhlo5uvog&st=9r36ylxj&dl=0)
 
 ## 1. Conservación
 

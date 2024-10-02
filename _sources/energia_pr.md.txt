@@ -1,4 +1,4 @@
-# Energía por gradiente salino
+# Energía por gradiente salino. Avances preliminares.
 
 <!-- Ruta de la documentación:
 PACA\diagno\aptitud\web\PACA\docs\source -->
