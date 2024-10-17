@@ -110,9 +110,11 @@ Plataforma continental | Moderada
 Zona Pelágica | Moderada
 Talud continental | Baja
 
+## 2. Restauración
 
+### 2.1 Modelo de decisión
 
-
+![](./recursos/conservacion/fi_restauracion.png)
 
 <!--### 1.2 Criterios
 
