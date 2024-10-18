@@ -110,6 +110,59 @@ Plataforma continental | Moderada
 Zona Pelágica | Moderada
 Talud continental | Baja
 
+**Amenazas antropogénicas - Sedimentación**
+
+Categoría | Importancia
+-- | --
+Islas | Moderada
+Arrecife | Muy   alta
+Lagunas costeras | Muy   alta
+Playa-dunas | Alta
+Manglares | Alta
+Pastos marinos | Alta
+Bahías | Alta
+Plataforma continental | Moderada
+Zona Pelágica | Moderada
+Talud continental | Baja
+
+**Amenazas antropogénicas – Especies invasoras**
+
+Categoría | Importancia
+-- | --
+Islas | Alta
+Arrecife | Muy   alta
+Lagunas costeras | Muy   alta
+Playa-dunas | Moderada
+Manglares | Alta
+Pastos marinos | Baja
+Bahías | Alta
+Plataforma continental | Moderada
+Zona Pelágica | Moderada
+Talud continental | Baja
+
+**Funciones de valor para los criterios de especies**
+
+**Categoría de riesgo**
+
+Categoría | Importancia
+-- | --
+Aves marinas | Moderada
+Cetáceos | Alta
+Tortugas | Alta
+Tiburones y rayas | Alta
+Peces | Moderada
+
+**Interacciones**
+
+Categoría | Importancia
+-- | --
+Aves marinas | Moderada
+Cetáceos | Alta
+Tortugas | Alta
+Tiburones y rayas | Alta
+Peces | Alta
+
+
 ## 2. Restauración
 
 ### 2.1 Modelo de decisión
