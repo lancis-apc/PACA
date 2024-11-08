@@ -24,104 +24,75 @@ La perspectiva socio-ecológica debe integrar (1) el fortalecimiento de medios y
 
 ![](./recursos/conservacion/fi_conservacion.png)
 
-### 1.2 Insumos
+### 1.2 Insumos cartográficos
 
 **Arrecifes**
 
 Capa | Mexican Reefs Data
-
+-- | --
 Fuente | Ortiz-Lozano, Leonardo; Santander-Monsalvo, Jacobo; espejel, ileana (2018), “Mexican Reefs Data”, Mendeley Data, V1, doi: 10.17632/dmfmv4b396.1
-
 Año  | 2018
-
 Escala | Sin dato
-
 Variable | ID / Reef Name
-
 Unidades | UTM WGS 84
 
 **Bahías**
 
 Capa |  Marco Geoestadístico municipal  2023
-
+-- | --
 Fuente | INEGI
-
 Año  | 2023
-
 Escala | 1:250000
-
 Variable |
-
 Unidades | Adimensional
-
 Liga |
 
 **Islas**
 
 Capa | Línea de Costa de México en función del relieve 2023
-
+-- | --
 Fuente | INEGI
-
 Año  | 2024
-
 Escala |
-
 Variable |
-
 Unidades | ITRF92
-
 Liga | Publicaciones y mapas
 
 **Manglar**
 
 Capa | Distribución de manglares  y manglares perturbados en México 2020
-
+-- | --
 Fuente | CONABIO
-
 Año  | 2020
-
 Escala | 1: 50,000
-
 Variable |
-
 Unidades | Adimensional
-
 Liga |
 
 **Zona pelágica, plataforma y talud continental**
 
 Capa | Geomorfología marina
-
+-- | --
 Fuente | Lugo-Hubp, José., Córdova, Carlos-Fernández, Arteaga. (1990)
-
 Año  | 1990
-
 Escala | 1:4000000
-
 Variable | Geomor_Mar
-
 Unidades | Adimensional
-
 Liga | http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/topog/marino/geom4mgw
 
 **Aves**
 
 Capa |
-
+-- | --
 Fuente | CIPAMEX (CONABIO), (17/07/2015). 'Áreas de importancia para la conservación de las aves, 2015', escala: 1:250000. Sección Mexicana del Consejo Internacional para la Preservación de las Aves. Financiado por CONABIO-FMCN-CCA. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, México, D.F.. México, D.F..
-
 Año  | 2015
-
 Escala | 1:250000
-
 Variable |
-
 Unidades |
-
 Liga | http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/region/biotic/aicas15gw
 
 <!-- Capa | Conjunto de datos vectoriales de uso del suelo y vegetación serie VII
-
+-- | --
 Fuente | Instituto Nacional de Estadística y Geografía (INEGI)
 
 Año  | 2018
@@ -137,65 +108,45 @@ Liga | -->
 **Cetáceos**
 
 Capa | Avistamiento de cetáceos - áreas de distribución espacial relativa
-
+-- | --
 Fuente | Luis Medrano,
-
 Año  | 1981 - 2019
-
 Escala | 0.25° x 0.25°
-
 Variable |  Adimensional
-
 Unidades |
-
 Liga |
 
 **Tortugas**
 
 Capa | Especies amenazadas de preocupación común, 2008
-
+-- | --
 Fuente | CommonConservartion Concern, 2008
-
 Año  | 2008
-
 Escala | S/N
-
 Variable | Green turtle / Kemp’s ridley turtle / Leatherback turtle / Loggerhead turtle
-
 Unidades | EPSG: 2163 US National Atlas Equal Area (metros)
-
 Liga | http://www.cec.org/es/atlas-ambiental-de-america-del-norte/especies-marinas-amenazadas-de-preocupacion-comun/
 
 **Tiburones y rayas**
 
 Capa |
-
+-- | --
 Fuente | IUCN SSC Shark Specialist Group. 2023. Gulf of California-Revillagigedo-Clipperton Migration Corridor ISRA Factsheet. Dubai: IUCN SSC Shark Specialist Group.
-
 Año  | 2023
-
 Escala |
-
 Variable |
-
 Unidades |
-
 Liga |
 
 **Peces**
 
 Capa | Base de datos de sitios de observación de peces
-
+-- | --
 Fuente | Georgina Ramirez
-
 Año  | 1984 - 2022
-
-Escala | Sin dato
-
+Esca
 Variable |
-
 Unidades | Adimensional
-
 Liga |
 
 ### 1.2 Criterios
@@ -424,7 +375,36 @@ productivas, incluyendo pesca incidental, colisiones con embarcaciones, sobrepes
 
 ### 2.2 Insumos
 
+Capa |Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares de México en 2020
+-- | --
+Fuente | Comisión Nacional para el Conocimiento y Uso de la BiodiversidadCiudad de México, México.
+Fecha de publicación:
+Año  | 2020
+Escala | 1:50000
+Variable |
+Unidades |
+Liga |
 
+**Arrecifes**
+
+Capa | Mexican Reefs Data
+-- | --
+Fuente | Ortiz-Lozano, Leonardo; Santander-Monsalvo, Jacobo; espejel, ileana (2018), “Mexican Reefs Data”, Mendeley Data, V1, doi: 10.17632/dmfmv4b396.1
+Año  | 2018
+Escala | Sin dato
+Variable | ID / Reef Name
+Unidades | UTM WGS 84
+
+**Manglar**
+
+Capa | Distribución de manglares  y manglares perturbados en México 2020
+-- | --
+Fuente | CONABIO
+Año  | 2020
+Escala | 1: 50,000
+Variable |
+Unidades | Adimensional
+Liga |
 
 ### 2.3	Criterios 
 
