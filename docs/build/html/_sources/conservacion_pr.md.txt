@@ -34,7 +34,7 @@ Fuente | Ortiz-Lozano, Leonardo; Santander-Monsalvo, Jacobo; espejel, ileana (20
 Año  | 2018
 Escala | Sin dato
 Variable | ID / Reef Name
-Unidades | UTM WGS 84
+Unidades | Adimensional
 
 **Bahías**
 
@@ -55,7 +55,7 @@ Fuente | INEGI
 Año  | 2024
 Escala |
 Variable |
-Unidades | ITRF92
+Unidades | Adimensional
 Liga | Publicaciones y mapas
 
 **Manglar**
@@ -82,16 +82,17 @@ Liga | http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/topog/marino/geom
 
 **Aves**
 
-Capa |
+Capa | Áreas de importancia para la conservación de las aves
 -- | --
-Fuente | CIPAMEX (CONABIO), (17/07/2015). 'Áreas de importancia para la conservación de las aves, 2015', escala: 1:250000. Sección Mexicana del Consejo Internacional para la Preservación de las Aves. Financiado por CONABIO-FMCN-CCA. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, México, D.F.. México, D.F..
+Fuente | CIPAMEX (CONABIO), (17/07/2015). Áreas de importancia para la conservación de las aves, 2015, escala: 1:250000. Sección Mexicana del Consejo Internacional para la Preservación de las Aves. Financiado por CONABIO-FMCN-CCA. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, México, D.F.
 Año  | 2015
 Escala | 1:250000
 Variable |
-Unidades |
+Unidades | Adimensional
 Liga | http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/region/biotic/aicas15gw
 
-<!-- Capa | Conjunto de datos vectoriales de uso del suelo y vegetación serie VII
+<!-- 
+Capa | Conjunto de datos vectoriales de uso del suelo y vegetación serie VII
 -- | --
 Fuente | Instituto Nacional de Estadística y Geografía (INEGI)
 
@@ -103,7 +104,8 @@ Variable | USOVEG : VEGETACIÓN DE DUNAS COSTERAS
 
 Unidades | Adimensional
 
-Liga | -->
+Liga | 
+-->
 
 **Cetáceos**
 
@@ -112,8 +114,8 @@ Capa | Avistamiento de cetáceos - áreas de distribución espacial relativa
 Fuente | Luis Medrano,
 Año  | 1981 - 2019
 Escala | 0.25° x 0.25°
-Variable |  Adimensional
-Unidades |
+Variable |  
+Unidades | Adimensional
 Liga |
 
 **Tortugas**
@@ -124,18 +126,18 @@ Fuente | CommonConservartion Concern, 2008
 Año  | 2008
 Escala | S/N
 Variable | Green turtle / Kemp’s ridley turtle / Leatherback turtle / Loggerhead turtle
-Unidades | EPSG: 2163 US National Atlas Equal Area (metros)
+Unidades | Adimensional
 Liga | http://www.cec.org/es/atlas-ambiental-de-america-del-norte/especies-marinas-amenazadas-de-preocupacion-comun/
 
 **Tiburones y rayas**
 
-Capa |
+Capa | Áreas de importancia para tiburones y rayas
 -- | --
 Fuente | IUCN SSC Shark Specialist Group. 2023. Gulf of California-Revillagigedo-Clipperton Migration Corridor ISRA Factsheet. Dubai: IUCN SSC Shark Specialist Group.
 Año  | 2023
 Escala |
 Variable |
-Unidades |
+Unidades | Adimensional
 Liga |
 
 **Peces**
@@ -375,14 +377,14 @@ productivas, incluyendo pesca incidental, colisiones con embarcaciones, sobrepes
 
 ### 2.2 Insumos
 
-Capa |Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares de México en 2020
+Capa | Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares de México en 2020
 -- | --
 Fuente | Comisión Nacional para el Conocimiento y Uso de la BiodiversidadCiudad de México, México.
 Fecha de publicación:
 Año  | 2020
 Escala | 1:50000
 Variable |
-Unidades |
+Unidades | Adimensional
 Liga |
 
 **Arrecifes**
@@ -393,7 +395,7 @@ Fuente | Ortiz-Lozano, Leonardo; Santander-Monsalvo, Jacobo; espejel, ileana (20
 Año  | 2018
 Escala | Sin dato
 Variable | ID / Reef Name
-Unidades | UTM WGS 84
+Unidades | Adimensional
 
 **Manglar**
 
