@@ -22,6 +22,7 @@ Identificar y priorizar las áreas mas factibles para la realización de activid
    :caption: Análisis de aptitud:
 
    introduccion_aptitud
+   acuacultura_pr
    energia_pr
    conservacion_pr
    transporte_pr
