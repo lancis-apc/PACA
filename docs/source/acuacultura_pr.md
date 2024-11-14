@@ -11,7 +11,7 @@ Monitorear y atender las amenazas que enfrenta la producción de organismos calc
 
 Se busca una alineación estratégica entre los tres niveles de gobierno para la facilitación de proyectos, incorporar a los pueblos indígenas y afromexicanos, promover el relevo generacional, promover la igualdad de género y la justicia social, así como complementarse con otras actividades productivas.
 
-[Lista de participantes]()
+[Lista de participantes](https://www.dropbox.com/scl/fi/cy5o2awml8scl5kc4vcbc/lista_asistencia.pdf?rlkey=w1qtwgxa1p2u1zrva81ii4lnk&st=o5903g9w&dl=0)
 
 ## 1. Acuacultura de lagunas costeras
 
@@ -21,6 +21,14 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 ### 1.2 Insumos cartográficos
 
+
+## 2. Acuacultura de bahías
+
+### 2.1 Modelo de decisión
+
+![](./recursos/acuacultura/fi_acuacultura_ba.png)
+
+### 12.2 Insumos cartográficos
 <!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
 ## 1. Energía
