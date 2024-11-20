@@ -28,7 +28,16 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 ![](./recursos/acuacultura/fi_acuacultura_ba.png)
 
-### 12.2 Insumos cartográficos
+### 2.2 Insumos cartográficos
+
+
+## 3. Maricultura
+
+### 2.1 Modelo de decisión
+
+![](./recursos/acuacultura/fi_maricultura.png)
+
+### 2.2 Insumos cartográficos
 <!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
 ## 1. Energía
