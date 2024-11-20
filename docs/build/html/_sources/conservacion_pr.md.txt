@@ -369,6 +369,9 @@ productivas, incluyendo pesca incidental, colisiones con embarcaciones, sobrepes
 
 ![](./recursos/conservacion/mapa_apt_cons_n_wf_1_8_5cats.png)
 
+![](./recursos/conservacion/fp_1.8.png)
+
+
 ## 2. Restauración
 
 ### 2.1 Modelo de decisión
@@ -534,6 +537,7 @@ esos ecosistemas.
 
 ![](./recursos/conservacion/mapa_apt_res_n_wf_1_8_5cats.png)
 
+![](./recursos/conservacion/fp_1.8.png)
 <!--### 1.2 Criterios
 
 **Insumos**
