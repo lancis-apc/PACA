@@ -19,7 +19,9 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 ![](./recursos/acuacultura/fi_acuacultura_lc.png)
 
-### 1.2 Insumos cartográficos
+### 1.2 Atributos
+
+**Ver los mapas de las funciones de valor en el Geovisualizador**
 
 
 ## 2. Acuacultura de bahías
@@ -28,16 +30,143 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 ![](./recursos/acuacultura/fi_acuacultura_ba.png)
 
-### 2.2 Insumos cartográficos
+### 2.2 Atributos
 
 
 ## 3. Maricultura
 
-### 2.1 Modelo de decisión
+### 3.1 Modelo de decisión
 
 ![](./recursos/acuacultura/fi_maricultura.png)
 
-### 2.2 Insumos cartográficos
+### 3.2 Atributos
+
+#### 3.2.1 Calidad de agua
+
+##### 3.2.1.1 Alcalinidad
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_cal_alc_Alcalinidad_minima_ccl_v2)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_cal_alc_Alcalinidad_minima_ccl_v1)
+
+##### 3.2.1.2 Clorofila
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_cal_clo_Clorofila_ccl_v2)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_cal_alc_Alcalinidad_mimapa_fv_mar_cal_clo_Clorofila_ccl_v1)
+
+##### 3.2.1.3 Oxígeno disuelto
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v2)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v1)
+
+##### 3.2.1.4 pH
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v3)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v1)
+
+#### 3.2.2 Físicos
+
+##### 3.2.2.1 Corrientes
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_fis_cor_Corrientes_ccl_v2)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_fis_cor_Corrientes_ccl_v1)
+
+##### 3.2.2.2 Altura de las olas
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v4)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v1)
+
+##### 3.2.2.3 Profundidad
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_fis_prof_batimetria_v3)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_fis_prof_batimetria_v1)
+
+##### 3.2.2.4 Temperatura
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v5)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v1)
+
+##### 3.2.2.5 Velocidad del viento
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_fis_vel_vi_viento_ccl_v2)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_fis_tem_TemperaturaMmapa_fv_mar_fis_vel_vi_viento_ccl_v1)
+
+#### 3.2.3 Infraestructura
+
+##### 3.2.3.1 Asentamientos humanos
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_inf_asent_loc_urbanas_dist_km_v3)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_inf_asent_loc_urbanas_dist_km_v1)
+
 <!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
 ## 1. Energía
@@ -73,7 +202,7 @@ Escala | Sin dato
 Unidades | Kilómetros
 
 **Parámetros de la función de valor**
-
+m
 ![]()  
 
 **Función de valor de carreteras**
