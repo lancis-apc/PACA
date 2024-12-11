@@ -21,7 +21,6 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 ### 1.2 Atributos
 
-**Ver los mapas de las funciones de valor en el Geovisualizador**
 
 
 ## 2. Acuacultura de bahías
@@ -31,6 +30,242 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 ![](./recursos/acuacultura/fi_acuacultura_ba.png)
 
 ### 2.2 Atributos
+
+#### 2.2.1 Calidad de agua
+
+##### 2.2.1.1 Alcalinidad
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_Alcalinidad_minima_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFFFFFFTFFFFFFFFFFFFFFFFFFTTTFT&bbox=-13050968.105209%2C1098751.214091%2C-9367314.838603%2C2742453.070107&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.1.2 Salinidad
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_Salinidad_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFFTFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.1.3 Oxígeno disuelto
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_OD_Anual_2020-2023_promedio_Semar_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFFFFTFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.1.4 pH
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_pH_Anual_2020-2023_promedio_Semar_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFFFTFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.1.5 Clorofila
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_Clorofila_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFFFFFTFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.1.6 Desembocadura de ríos
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_cal_dist_bah_descarga_rios_ccl_v1.png)
+
+**Función de valor**
+
+
+
+##### 2.2.1.7 Coliformes
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+| Categoría | Importancia | Valor |
+|-----------|-------------|-------|
+| ND        |             | 0     |
+| Amarillo  | Moderada    | 0.5   |
+| Rojo      | Baja        | 0.25  |
+| Verde     | Alta        | 1     |
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFFTFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+#### 2.2.2 Físicos
+
+##### 2.2.2.1 Corrientes
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_fis_Corrientes_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFTFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.2.2 Altura de las olas
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_fis_Altura_ola_maxima_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFFFTFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.2.4 Profundidad
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_fis_batimetria_bah_v1.png)
+
+**Función de valor**
+
+
+##### 2.2.2.5 Velocidad del viento
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_fis_viento_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFTFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.2.6 Temperatura
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_fis_TemperaturaModisAqua_promedio2020_2023_ccl_bah_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFFFTFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+#### 2.2.3 Infraestructura
+
+##### 2.2.3.1 Asentamientos humanos
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_inf_dist_bah_loc_ccl_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.3.2 Carreteras
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_inf_dist_bah_carr_ccl_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFFFTFFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.3.3 Distancia a puertos
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_inf_dist_bah_puertos_term_ccl_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FFTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+#### 2.2.4 Riesgo
+
+##### 2.2.4.1 Huracanes
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+| Categoría | importancia     | Valor  |
+|-----------|-----------------|--------|
+| ND        |                 | 0      |
+| Bajo      | Muy alta        | 1      |
+| Medio     | Moderada        | 0.25   |
+| Alto      | Baja            | 0.125  |
+| Muy alto  | Muy baja o Nula | 0.0625 |
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0FTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
+
+
+##### 2.2.4.2 Contaminación
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_acu_b_ries_dist_bah_descarga_rios_ccl_v1.png)
+
+**Función de valor**
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="http://www.apc.lancis.ecologia.unam.mx/sig/index.php/view/embed/?repository=paca&project=mp_apt_acu_b_pub&layers=0000B0TFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFTTTFT&bbox=-12843059.388303%2C1228388.414045%2C-9575223.55551%2C2612815.870153&crs=EPSG%3A3857" allowfullscreen></iframe>
 
 
 ## 3. Maricultura
@@ -49,11 +284,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_cal_alc_Alcalinidad_minima_ccl_v2)
+![](./recursos/acuacultura/fi_fv_mar_cal_alc_Alcalinidad_minima_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_cal_alc_Alcalinidad_minima_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_cal_alc_Alcalinidad_minima_ccl_v1.png)
 
 ##### 3.2.1.2 Clorofila
 
@@ -61,11 +296,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_cal_clo_Clorofila_ccl_v2)
+![](./recursos/acuacultura/fi_fv_mar_cal_clo_Clorofila_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_cal_alc_Alcalinidad_mimapa_fv_mar_cal_clo_Clorofila_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_cal_clo_Clorofila_ccl_v1.png)
 
 ##### 3.2.1.3 Oxígeno disuelto
 
@@ -73,11 +308,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v2)
+![](./recursos/acuacultura/fi_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_cal_odis_OD_Anual_2020-2023_promedio_Semar_ccl_v1.png)
 
 ##### 3.2.1.4 pH
 
@@ -85,11 +320,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v3)
+![](./recursos/acuacultura/fi_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_cal_ph_pH_Anual_2020-2023_promedio_Semar_ccl_v1.png)
 
 #### 3.2.2 Físicos
 
@@ -99,11 +334,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_fis_cor_Corrientes_ccl_v2)
+![](./recursos/acuacultura/fi_fv_mar_fis_cor_Corrientes_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_fis_cor_Corrientes_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_fis_cor_Corrientes_ccl_v1.png)
 
 ##### 3.2.2.2 Altura de las olas
 
@@ -111,11 +346,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v4)
+![](./recursos/acuacultura/fi_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_fis_h_olas_Altura_ola_maxima_ccl_v1.png)
 
 ##### 3.2.2.3 Profundidad
 
@@ -123,11 +358,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_fis_prof_batimetria_v3)
+![](./recursos/acuacultura/fi_fv_mar_fis_prof_batimetria_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_fis_prof_batimetria_v1)
+![](./recursos/acuacultura/mapa_fv_mar_fis_prof_batimetria_v1.png)
 
 ##### 3.2.2.4 Temperatura
 
@@ -135,11 +370,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v5)
+![](./recursos/acuacultura/fi_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_fis_tem_TemperaturaModisAqua_promedio2020_2023_ccl_v1.png)
 
 ##### 3.2.2.5 Velocidad del viento
 
@@ -147,11 +382,11 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_fis_vel_vi_viento_ccl_v2)
+![](./recursos/acuacultura/fi_fv_mar_fis_vel_vi_viento_ccl_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_fis_tem_TemperaturaMmapa_fv_mar_fis_vel_vi_viento_ccl_v1)
+![](./recursos/acuacultura/mapa_fv_mar_fis_vel_vi_viento_ccl_v1.png)
 
 #### 3.2.3 Infraestructura
 
@@ -161,11 +396,64 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Parámetros para la función de valor**
 
-![](./recursos/acuacultura/fi_fv_mar_inf_asent_loc_urbanas_dist_km_v3)
+![](./recursos/acuacultura/fi_fv_mar_inf_asent_loc_urbanas_dist_km_v1.png)
 
 **Función de valor**
 
-![](./recursos/acuacultura/mapa_fv_mar_inf_asent_loc_urbanas_dist_km_v1)
+![](./recursos/acuacultura/mapa_fv_mar_inf_asent_loc_urbanas_dist_km_v1.png)
+
+##### 3.2.3.2 Carreteras
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_inf_car_carreteras_vialidades_dist_km_v1.png)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_inf_car_carreteras_vialidades_dist_km_v1.png)
+
+##### 3.2.3.3 Distancia a puertos
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_inf_puer_puertos_terminales_dist_km_v1.png)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_inf_puer_puertos_terminales_dist_km_v1.png)
+
+#### 3.2.4 Riesgo
+
+##### 3.2.4.1 Huracanes
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_ries_hur_frecuenciaHuracanes_1949_2023_ccl_v1.png)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_ries_hur_frecuenciaHuracanes_1949_2023_ccl_v1.png)
+
+##### 3.2.4.2 Contaminación
+
+**Insumos**
+
+**Parámetros para la función de valor**
+
+![](./recursos/acuacultura/fi_fv_mar_ries_cont_descarga_rios_dist_km_v1.png)
+
+**Función de valor**
+
+![](./recursos/acuacultura/mapa_fv_mar_ries_cont_descarga_rios_dist_km_v1.png)
+
+
+
 
 <!-- **Si bien durante los talleres se evaluó la aptitud de cinco tipos de fuentes que incluyen hidrocarburos líquidos, gas natural, solar, eólica y biomasa, con base en los Art. 37 y 38 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico el mapa de aptitud que se utilizará como insumo para la actualización del POETY es el de energías renovables que se muestra en la sección 2.**
 
