@@ -50,6 +50,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Insumos**
 
+Capa | Salinidad promedio superficial del mar
+-- | --
+Fuente | Copernicus Marine Service
+Año  | 31 Dic 1992 al 23 Sep 2024
+Escala | 0.083° × 0.083°
+Variable |  pixel
+Unidades | adimensional
+Liga |  (DOI: Global Ocean Physics Reanalysis )
+
 **Parámetros para la función de valor**
 
 ![](./recursos/acuacultura/fi_fv_acu_b_cal_Salinidad_ccl_bah_v1.png)
@@ -102,6 +111,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Insumos**
 
+Capa |[1] Rios principales [2] Estadísticas del agua en México 2021
+-- | --
+Fuente | [1] SISTEMA NACIONAL DE INFORMACIÓN DEL AGUA 3.0 CONAGUA   [2] CONAGUA
+Año  |[ 1] 2023 [2] 2022
+Escala | Sin dato
+Variable |  [2] Escurrimiento natural medio superficial
+Unidades | [1] Adimensional, [2]hm3/año
+Liga |
+
 **Parámetros para la función de valor**
 
 ![](./recursos/acuacultura/fi_fv_acu_b_cal_dist_bah_descarga_rios_ccl_v1.png)
@@ -113,6 +131,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 ##### 2.2.1.7 Coliformes
 
 **Insumos**
+
+Capa | Calidad del agua en cuerpos costeros 2023
+-- | --
+Fuente | CONAGUA-SINAV
+Año  | 2023
+Escala |
+Variable |
+Unidades |
+Liga | https://sinav30.conagua.gob.mx:8080/SINA/?opcion=base
 
 **Parámetros para la función de valor**
 
@@ -160,6 +187,16 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Insumos**
 
+Capa | Profundidad
+-- | --
+Fuente | _GEBCO Compilation Group (2020) GEBCO 2020 Grid (doi:10.5285/a29c5465-b138-234d-e053-6c86abc040b9), Available online at _ _http://www.gebco.net; _Gridded bathymetry data (General Bathymetric Chart of the Oceans).
+Año  | 2020
+Escala | 15 segundos de arco
+Variable |
+Unidades | m
+Liga | SIMAR | CONABIO
+
+ 
 **Parámetros para la función de valor**
 
 ![](./recursos/acuacultura/fi_fv_acu_b_fis_batimetria_bah_v1.png)
@@ -199,6 +236,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Insumos**
 
+Capa | ‘00l’ (localidades)
+-- | --
+Fuente | Instituto Nacional de Geografía y Estadística
+Año  | 2023
+Escala |
+Variable | NOMGEO / AMBITO
+Unidades |
+Liga |  Marco geoestadístico - Catálogo único de claves de áreas geoestadísticas estatales, municipales y localidades
+
 **Parámetros para la función de valor**
 
 ![](./recursos/acuacultura/fi_fv_acu_b_inf_dist_bah_loc_ccl_v1.png)
@@ -212,6 +258,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 
 **Insumos**
 
+Capa | Red Nacional de Caminos
+-- | --
+Fuente | Instituto Nacional de Estadística y Geografía, INEGI
+Año  | 2021
+Escala | 1:50 000 , 1:20 000 , 1:5 000
+Variable | "camino", "carretera", "localidad", "número de carretera", "ruta", "ruteo", "sitio de interés", "terracería", "vialidad", "vías de transporte"
+Unidades | grados decimales
+Liga | http://rnc.imt.mx/
+
 **Parámetros para la función de valor**
 
 ![](./recursos/acuacultura/fi_fv_acu_b_inf_dist_bah_carr_ccl_v1.png)
@@ -224,6 +279,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 ##### 2.2.3.3 Distancia a puertos
 
 **Insumos**
+
+Capa | Puertos Marítimos de México
+-- | --
+Fuente | INEGI, proporcionado por CentroGeo a través de IDEGeo
+Año  | 2014
+Escala |
+Variable | NOMBRE (del puerto o terminal)
+Unidades |
+Liga | Puertos de México INEGI, 2014
 
 **Parámetros para la función de valor**
 
@@ -239,6 +303,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 ##### 2.2.4.1 Huracanes
 
 **Insumos**
+
+Capa | Grado de Peligro por Ciclones Tropicales
+-- | --
+Fuente | Centro Nacional de Prevención de Desastres (CENAPRED)
+Año  | 2015
+Escala |
+Variable |
+Unidades |
+Liga | https://datos.gob.mx/busca/dataset/centro-nacional-de-prevencion-de-desastres/resource/b82b4227-76e1-4c3d-815d-552c901c8a13
 
 **Parámetros para la función de valor**
 
@@ -258,6 +331,15 @@ Se busca una alineación estratégica entre los tres niveles de gobierno para la
 ##### 2.2.4.2 Contaminación
 
 **Insumos**
+
+Capa |[1] Rios principales [2] Estadísticas del agua en México 2021
+-- | --
+Fuente | [1] SISTEMA NACIONAL DE INFORMACIÓN DEL AGUA 3.0 CONAGUA   [2] CONAGUA
+Año  |[ 1] 2023 [2] 2022
+Escala | Sin dato
+Variable |  [2] Escurrimiento natural medio superficial
+Unidades | [1] Adimensional, [2]hm3/año
+Liga |
 
 **Parámetros para la función de valor**
 
