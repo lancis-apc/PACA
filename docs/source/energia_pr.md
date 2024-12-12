@@ -1,4 +1,4 @@
-# Energía por gradiente salino. Avances preliminares.
+# Energía. Avances preliminares.
 
 <!-- Ruta de la documentación:
 PACA\diagno\aptitud\web\PACA\docs\source -->
@@ -14,24 +14,188 @@ Aprovechar la energía liberada en el proceso espontáneo de mezclado entre dos 
 
 Fuentes de energía a escala.
 
-### 1.1 Modelo de decisión
+### 1.1 Meta
 
-![](/recursos/energia/.png)
+Generar energía eléctrica a partir del proceso espontáneo de mezclado entre dos soluciones de diferente concentración de sal que ocurre naturalmente en desembocaduras de ríos, estuarios y lagunas o artificialmente, utilizando subproductos hipersalinos de procesos industriales.
 
-### 1.2 
+### 1.2 Modelo de decisión
+
+![](/recursos/energia/grad_sal/energia.png)
+
+### 1.3 Gradiente salino
 
 Criterios | Definición
 -- | --
 Gradiente industrial  | Disponibilidad de agua con alta salinidad a partir de un subproducto del proceso industrial
 Gradiente natural | Disponibilidad de agua con alta salinidad a partir de procesos naturales
 
-#### 1.2.1 Gradiente industrial
+#### 1.3.1 Gradiente industrial
 
 Disponibilidad de agua con alta salinidad a partir de un subproducto del proceso industrial.
 
 Atributo | Definición
 -- | --
 Plantas desalinizadoras  | Distancia a las plantas desalinizadoras
+
+##### 1.3.1.1 Plantas desalinizadoras
+
+Distancia a las plantas desalinizadoras
+
+
+#### 1.3.2 Gradiente natural
+
+Disponibilidad de agua con alta salinidad a partir de procesos naturales
+
+Criterio| Definición
+-- | --
+Evaporación | Grado de salinidad en la laguna por evaporación
+Flujo |  Gradiente de salinidad por el aporte de agua dulce hacia el mar
+
+##### 1.3.2.1 Evaporación
+
+Grado de salinidad en la laguna por evaporación.
+
+**Insumos**
+
+Capa |[1]Mapa de uso del suelo y vegetación de la zona costera asociada a los manglares de México en 2020 [2]sitios de manglar con relevancia biológica y con necesidades de rehabilitación ecológica [3]Estadísticas del agua en México 2021
+-- | --
+Fuente |  [1 y 2] Comisión Nacional para el Conocimiento y Uso de la Biodiversidad [3] CONAGUA
+Año  | [1] 2020 [2] 2009 [2]2020
+Escala | [1 y 2]1:50000
+Variable | [3] hm3/año
+Unidades | Adimensional
+Liga | Portal de Información Geográfica - CONABIO
+
+**Parámetros para la función de valor**
+
+| Categoría                                           | Importancia | Valor |
+|-----------------------------------------------------|-------------|-------|
+| ND                                                  | Nula        | 0     |
+| Barra de Tecoanapa (Desembocadura del Río Ometepec) | Baja        | 0.25  |
+| Boca de Pantla                                      | Nula        | 0     |
+| Boca del Río de la Unión                            | Nula        | 0     |
+| Chacahua-Pastoría                                   | Nula        | 0     |
+| Chantecuan                                          | Nula        | 0     |
+| Coyuca-Mitla                                        | Baja        | 0.25  |
+| Ixtapa                                              | Nula        | 0     |
+| La Encrucijada                                      | Baja        | 0.25  |
+| La Joya                                             | Moderada    | 0.5   |
+| Laguna Barra de Navidad                             | Nula        | 0     |
+| Laguna Chalacatepec                                 | Nula        | 0     |
+| Laguna El Caimán                                    | Nula        | 0     |
+| Laguna El Potosí                                    | Baja        | 0.25  |
+| Laguna de Cuyutlán                                  | Baja        | 0.25  |
+| Lagunas Cabildo-Amatal-Gancho Murillo               | Baja        | 0.25  |
+| Los Patos Solo Dios                                 | Moderada    | 0.5   |
+| Mar Muerto                                          | Moderada    | 0.5   |
+| Sistema Chamela-Cuixmala                            | Nula        | 0     |
+| Sistema Lagunar Estuarino Agua Dulce-El Ermitaño    | Nula        | 0     |
+| Sistema Lagunar Huave                               | Moderada    | 0.5   |
+
+**Función de valor**
+
+![](./recursos/energia/grad_sal/mapa_fv_ene_gs_nat_lagunas_manglar_prio_nombre_D_v1_ccl.png)
+
+##### 1.3.2.2 Flujo
+
+Gradiente de salinidad por el aporte de agua dulce hacia el mar
+
+Criterio| Definición
+-- | --
+Descarga | Volumen de agua dulce por unidad de tiempo que llega al mar
+Precipitación |  Precipitación anual promedio (mm) del período de 1910 a 2009
+
+###### 1.3.2.2.1 Descarga
+
+Volumen de agua dulce por unidad de tiempo que llega al mar.
+
+**Insumos**
+
+Capa |[1] Rios principales [2] Estadísticas del agua en México 2021
+-- | -
+Fuente | [1] SISTEMA NACIONAL DE INFORMACIÓN DEL AGUA 3.0 CONAGUA   [2] CONAGUA
+Año  |[ 1] 2023 [2] 2022
+Escala | Sin dato
+Variable |  [2] Escurrimiento natural medio superficial
+Unidades | [1] Adimensional, [2]hm3/año
+Liga |
+
+**Parámetros para la función de valor**
+
+| Categoría              | Importancia | Valor  |
+|------------------------|-------------|--------|
+| ND                     | Muy baja    | 0      |
+| Ameca - 2289 hm3       | Moderada    | 0.25   |
+| Armería - 1760 hm3     | Baja        | 0.125  |
+| Balsas - 18140 hm3     | Muy alta    | 1      |
+| Coahuayana - 1671 hm3  | Baja        | 0.125  |
+| Coatán - 745 hm3       | Muy baja    | 0.0625 |
+| Marabasco - 500 hm3    | Muy baja    | 0.0625 |
+| Ometepec - 5115 hm3    | Alta        | 0.5    |
+| Papagayo - 4650 hm3    | Alta        | 0.5    |
+| San Nicolás - 442 hm3  | Muy baja    | 0.0625 |
+| Tehuantepec - 1410 hm3 | Baja        | 0.125  |
+| Tomatlán - 1171 hm3    | Baja        | 0.125  |
+| Verde - 6006 hm3       | Alta        | 0.5    |
+
+**Función de valor**
+
+![](./recursos/energia/grad_sal/mapa_fv_ene_gs_nat_fl_drenaje_rio_ens_D_v1_ccl.png)
+
+###### 1.3.2.2.2 Precipitación
+
+Precipitación anual promedio (mm) del período de 1910 a 2009
+
+**Insumos**
+
+Capa | Precipitación anual en México (1910-2009)
+-- | --
+Fuente | Cuervo-Robayo, A. P., Téllez-Valdés, O., Gómez-Albores, M. A., Venegas-Barrera, C. S., Manjarrez, J., Martínez-Meyer, E.,
+Año  | 2014
+Escala |  1:1000000
+Variable | PANUAL
+Unidades | mm
+Liga | Portal de Información Geográfica - CONABIO
+
+**Parámetros para la función de valor**
+
+![](./recursos/energia/grad_sal/fi_fv_ene_gs_nat_fl_prec_1910_2009_v1.png)
+
+**Función de valor**
+
+![](./recursos/energia/grad_sal/mapa_fv_ene_gs_nat_fl_prec_1910_2009_v1_ccl.png)
+
+### 1.4 Mapa de aptitud de energía por gradiente salino
+
+![](./recursos/energia/grad_sal/mapa_apt_ene_gs_nat_D_n_wf_1_6_5cats.png)
+
+
+## 2. Energía por gradiente térmico
+
+## 2.1 Meta
+
+Generar energía eléctrica a partir de las diferencias de temperatura mayores o iguales a 20 °C entre el agua superficial del mar y el agua a diferentes profundidades (entre 500 y 1000 metros) para obtener energía eléctrica, mediante la tecnología de Conversión de Energía Térmica Oceánica.
+
+El mapa de aptitud se basa en el trabajo realizado por los miembros del Centro Mexicano de Innovación en Energía Océano (CEMIE-Océano https://cemieoceano.mx/) para la identificación del potencial de generación de energías en el océano.
+
+**Insumos**
+
+Capa | Distribución Espacial del Recurso Energético por Gradiente Térmico en los Mares Mexicanos
+-- | --
+Fuente |  Cemie-Océano, Universidad Autónoma de Campeche
+Año  |  2020
+Escala | Sin dato
+Variable |   Pixeles
+Unidades | MWe
+Liga |
+
+**Función de valor**
+
+![](./recursos/energia/grad_term/mapa_ifv_ene_gt_gradiente_termico_ccl.png)
+
+### 2.2 Mapa de aptitud de energía por gradiente térmico
+
+![](./recursos/energia/grad_term/mapa_apt_ene_gt.png)
 
 <!-- ##### 1.2.1.1 Carreteras
 
